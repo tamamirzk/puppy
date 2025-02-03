@@ -1,3 +1,3 @@
-module github.com/tamamirzk/puppy
+module puppy
 
 go 1.22.3
