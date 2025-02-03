@@ -1,3 +1,3 @@
-module github.com/dsds/puppy
+module github.com/tamamirzk/puppy
 
 go 1.22.3
